@@ -1,5 +1,7 @@
 # King County Housing Market Analysis
 
+Team project (neuefische, 2026) with Mareike Sahling (@mshlg) and Daniel Baranski (@dpbaranski); public copy of the original repository.
+
 ## Table of Contents
 
 - [Project Overview](#project-overview)
